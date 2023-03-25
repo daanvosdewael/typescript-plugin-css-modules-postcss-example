@@ -1,0 +1,7 @@
+.foo {
+	width: 100%;
+
+	&__bar {
+		z-index: 1;
+	}
+}
